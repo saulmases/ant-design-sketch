@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "905ECE5F-2D28-4B35-A024-66424903E510",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "720FC8A2-C706-4860-B441-62AC258615CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "27447821-3FA4-4D8E-AD8B-63E181E3BC29",
+    "height": 24,
+    "width": 24,
+    "x": 1060,
+    "y": 462
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FD1C8482-6AD1-4F95-8AF0-F6D4AD33E874"
+    },
+    {
+      "class": "group",
+      "id": "D5DCA00B-133D-4125-9C82-D3BBC5ACC78B"
+    }
+  ],
+  "name": "Group 80",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "EE8D19AF-D851-4EA3-B752-814A39E99326",
+      "opacity": 0.65
+    },
+    "do_objectID": "5F8B2DAB-B8C9-4B0A-B053-8FC182176D12",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_d43e1b1c-3cc1-46a1-ac6b-2152202411f3",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5d7cafc8-ff0f-481c-932e-dc4726ecb7ad",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

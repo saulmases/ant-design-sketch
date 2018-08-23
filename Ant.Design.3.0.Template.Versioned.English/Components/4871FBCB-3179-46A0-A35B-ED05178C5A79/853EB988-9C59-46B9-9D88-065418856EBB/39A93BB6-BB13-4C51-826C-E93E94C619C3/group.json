@@ -1,0 +1,91 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "39A93BB6-BB13-4C51-826C-E93E94C619C3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C27AC3AC-8A4E-4E6F-8502-9628CBCB7506",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "76411144-8B48-4154-927A-B9D6288180CC",
+    "height": 720,
+    "width": 1440,
+    "x": 60,
+    "y": 860
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F5FD00AC-90B7-4542-8556-6467A7E3FB14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C333913D-BC55-4C0D-A125-0BC555F960E7"
+    },
+    {
+      "class": "group",
+      "id": "9D9FD4A5-06C1-4DE1-89DD-C8AB381EAFC4"
+    },
+    {
+      "class": "group",
+      "id": "46A18838-47E6-47DB-AB03-196E30FE3099"
+    }
+  ],
+  "name": "Tree Navigation (Open)",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8BEAD1BF-0594-41E0-9A65-1F7C84E816C0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 1,
+        "color": {
+          "_class": "color",
+          "alpha": 0.25,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 0,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

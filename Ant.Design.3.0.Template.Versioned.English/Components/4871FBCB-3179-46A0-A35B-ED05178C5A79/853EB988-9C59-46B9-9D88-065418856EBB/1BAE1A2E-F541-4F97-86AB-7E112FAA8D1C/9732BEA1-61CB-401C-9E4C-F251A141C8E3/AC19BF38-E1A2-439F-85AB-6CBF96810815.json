@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "AC19BF38-E1A2-439F-85AB-6CBF96810815",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3E141C21-CF76-4AD5-BDEE-C043E2D693FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "F002C368-1B96-4656-AB57-719D621DB826",
+    "height": 12,
+    "width": 12,
+    "x": 228,
+    "y": 147
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Down",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "4809CEC5-F4DF-4D8A-8CFE-45358EDB96D2_symbolID",
+      "value": "00743F13-8ECD-49BE-ABE5-E54A09118906"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "C287ACB6-66A3-4950-8E87-B133335D5EB4",
+      "opacity": 0.45
+    },
+    "do_objectID": "3246957D-998C-4406-992A-88A286C12BDE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "03623A0D-E2A7-459A-AA51-227774F65719",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 12,
+            "enabled": 1,
+            "modelID": "constraint_1127f5b4-8f9a-4d83-8ce8-840c48bed4e5",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 12
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0672ee6d-c0b3-49c6-86e0-eea521f24615",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "8C838919-CB47-422E-9730-1EC64D955229",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "565C1AEE-0BFB-4284-BE1C-2C6BE8D08093",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C5348F8-3BEB-4015-91A0-6AF37510D276",
+    "height": 17,
+    "width": 22,
+    "x": 1.3828125,
+    "y": 3.984375
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ECC2BFC5-CD0D-476C-8C13-791094A0C829"
+    }
+  ],
+  "name": "cloud",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "2A48D45E-713B-4B05-BA8A-5E7DDA4B79F3",
+      "opacity": 0.65
+    },
+    "do_objectID": "E9E31C33-EE62-4024-98BE-5F0C3D66B1ED",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

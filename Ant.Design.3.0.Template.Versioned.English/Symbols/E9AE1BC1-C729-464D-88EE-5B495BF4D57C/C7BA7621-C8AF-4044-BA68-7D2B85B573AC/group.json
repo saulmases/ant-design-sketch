@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "C7BA7621-C8AF-4044-BA68-7D2B85B573AC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "36E7E635-2B4B-4274-B6CB-AC2EE69BB58C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AC24EB05-6C1E-4A1D-9E4C-553758CB3734",
+    "height": 32,
+    "width": 64,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B272E6AE-BF7F-4328-B81A-E53AD8595F82"
+    },
+    {
+      "class": "text",
+      "id": "F2F9C203-AB51-4FA4-910F-5F697C99045D"
+    }
+  ],
+  "name": "Secondarybutton",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6934E41E-97DB-461C-8C12-28E903AAE679",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

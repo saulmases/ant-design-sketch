@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "3E2C2D9D-F9C6-42A5-A7C9-9DE68B703068",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "77BE6FBA-E957-480B-82EA-A7ADC946DC3F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C71E18A5-91C9-467F-82FF-533FF0F54107",
+    "height": 154,
+    "width": 450,
+    "x": 510,
+    "y": 214
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C6809589-9746-439E-A3D0-E6338592ED77"
+    },
+    {
+      "class": "group",
+      "id": "7CE3A482-8267-4FF3-9659-FA1FAC43E06C"
+    },
+    {
+      "class": "group",
+      "id": "EE552D01-8C22-43EE-B9A2-AF7B46B8894A"
+    }
+  ],
+  "name": "Slide Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C96C6677-C07F-4347-8501-23641A65F9EA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

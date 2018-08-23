@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "15B2F7C5-7D55-4C16-A8F2-3D90FC5FE832",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E9DAECE5-CF80-4CEB-8F74-46DA8DB6BD7D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EF1FEC0F-9914-48DC-B227-7FCDFDEC2139",
+    "height": 18,
+    "width": 18,
+    "x": 23,
+    "y": 247
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0976AA9B-8B5D-4D14-8503-82A7A091E63C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "148D0950-66F5-448C-806F-BCD4DD189F03"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F280BA13-1005-4669-BD68-EB41CD0C2668"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20598A7A-3620-44FC-845A-20693FFF8603"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "630F5BA7-EB59-4FD1-85C0-F857A2848974"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E220DDD2-ED03-48B2-A19F-386213553675"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2452E91B-12CB-43AD-9C8C-72B5FF0EFB90"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "732C279B-8733-4E48-9F64-642163604E1A"
+    }
+  ],
+  "name": "icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "C590F148-6F41-49CF-BC80-1A35348B1166",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12.85714285714286,
+      "type": 0
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "4142A081-79F4-43B4-B8DA-33C59BEE1A9C",
+      "opacity": 0.65
+    },
+    "do_objectID": "9C3B0273-528B-4337-82AB-9C1AACE011CE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

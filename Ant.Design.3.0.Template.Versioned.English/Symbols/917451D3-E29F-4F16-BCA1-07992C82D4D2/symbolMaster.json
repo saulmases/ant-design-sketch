@@ -1,0 +1,95 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "A4EE48D8-A7F7-4D98-8FA5-BD0008AC6608",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 810,
+  "do_objectID": "917451D3-E29F-4F16-BCA1-07992C82D4D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B66E9315-8A93-4120-B5BD-BEFF0DCACEDC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DC2C0E80-F81F-4CF9-9035-E756DCB7120F",
+    "height": 24,
+    "width": 224,
+    "x": -2971,
+    "y": -5461
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AFC867AE-089B-42F7-81DF-02E191609280",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "14C37178-8350-4732-BC9F-AEBDE4B8A9EE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D8500E6-A099-4FF9-9EF0-7C135CD5EA9A"
+    },
+    {
+      "class": "text",
+      "id": "5E8D9A2F-61D7-40B0-AA96-17BA4D4FD652"
+    }
+  ],
+  "name": "DatePicker/Small/Placeholder",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "842F6E2F-EF8A-41AC-B8AD-1FC96D2DB5CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "78A50EAC-A864-4319-A64D-710B9AEC3739",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2E911F59-76BE-4600-8777-013D6F62154A",
+    "guides": [
+    ]
+  }
+}

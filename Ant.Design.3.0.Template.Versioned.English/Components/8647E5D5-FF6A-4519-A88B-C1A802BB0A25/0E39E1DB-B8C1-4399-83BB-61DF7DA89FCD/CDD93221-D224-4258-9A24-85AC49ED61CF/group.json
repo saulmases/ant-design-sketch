@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "CDD93221-D224-4258-9A24-85AC49ED61CF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "963BB09D-7E39-4E04-AA2D-CB5E640B3742",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FABA6263-9A62-46C5-89DC-DF50B97679FD",
+    "height": 32,
+    "width": 309,
+    "x": 40,
+    "y": 534
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7415E2F3-E24C-4639-A148-01C19A786FB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4E579F41-6C78-4DBF-8D90-C3105673627F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EF8EEE82-E7F5-42DB-B34A-4C3EDFD9FA70"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C515CE08-F1E9-40AD-B7B1-EE419AA247B7"
+    }
+  ],
+  "name": "RadioButton Default",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ECC5403F-48DB-4FEC-A769-AC20F8EFE42E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

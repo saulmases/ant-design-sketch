@@ -1,0 +1,73 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "50E5CDBD-98B0-4899-AAB2-2824216EB1A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B4AA8461-3828-4099-AF47-B36451DF05F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "692B3052-34FA-43E1-BF93-C3D98FFAD9D5",
+    "height": 40,
+    "width": 560,
+    "x": 0,
+    "y": 39
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0EB1EE20-35D6-4B09-908B-75183CEC4518"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9D59070F-119E-4C5A-950F-4565B9175E83"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "21F3BC9C-E460-4153-9FEC-3517E51D892C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9F2C6ED5-5318-46FA-A0B1-0EB0AC7D9537"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7CE23B92-EFC6-4465-ABD8-9C63B6A2A55A"
+    }
+  ],
+  "name": "Card Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09FC6B75-3A73-46C7-B76A-E8E8866B2970",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

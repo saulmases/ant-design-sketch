@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "609311FD-0A6E-4184-A2AA-32E1CE7E8B23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E39600D-2E14-4977-86C2-39E68A124BEA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "146314DC-BFAA-403B-B608-60E80826CDBC",
+    "height": 48,
+    "width": 48,
+    "x": 124,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "00F7585A-BD49-4194-902A-4FC41B008905"
+    }
+  ],
+  "name": "inbox",
+  "nameIsFixed": false,
+  "resizingConstraint": 45,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "08E6DD05-29EB-4D10-BAA8-7AFE65E96D53",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.633245382585752,
+      "type": 0
+    },
+    "do_objectID": "7CF2EF38-9DE6-4EDF-B228-A4FABBD52209",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

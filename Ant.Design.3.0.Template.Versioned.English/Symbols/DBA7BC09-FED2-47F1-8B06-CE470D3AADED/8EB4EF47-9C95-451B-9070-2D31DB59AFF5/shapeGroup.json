@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EB4EF47-9C95-451B-9070-2D31DB59AFF5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D94DE9C1-EC5B-4F99-BFFB-2A25C1E011D1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9BF258A5-E6E9-4EA1-9B3D-518E4F7A7D93",
+    "height": 76,
+    "width": 76,
+    "x": 2,
+    "y": 2
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "F233DC66-5118-4F56-B27B-DFCA8F334BFE"
+    }
+  ],
+  "name": "circle",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "do_objectID": "FC37A2FC-AF78-41E5-9A84-AEF2EFAEAF48",
+      "isEnabled": false,
+      "lineCapStyle": 1,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.5647058823529414,
+          "red": 0.09411764705882353
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 4
+      }
+    ],
+    "do_objectID": "10843415-9708-46AE-8475-103F5A1BFB7D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 76,
+            "enabled": 1,
+            "modelID": "constraint_1dea716b-0955-41b1-86d7-6ad6c2d9a111",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 76
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_35ba31fd-696d-4606-8ca4-59026fc7eeaa",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

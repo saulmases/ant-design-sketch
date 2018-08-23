@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "FCCC622D-8DF3-4625-8B9A-B3723D6D3752",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7684D6DB-9D20-4AA2-86AD-3D7B11A414A1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2C9CFEF0-E6DC-4830-9E17-AE402B6E6CAE",
+    "height": 129,
+    "width": 256,
+    "x": 40,
+    "y": 284
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "7EF514E4-8786-4BD7-90FC-94E5B4A98C55"
+    },
+    {
+      "class": "text",
+      "id": "AFC2AEC9-E957-44BC-8AD1-DAD6E6BE19D7"
+    }
+  ],
+  "name": "Popover with Title",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2561C5D3-1F7F-4253-B52C-78078A60294B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

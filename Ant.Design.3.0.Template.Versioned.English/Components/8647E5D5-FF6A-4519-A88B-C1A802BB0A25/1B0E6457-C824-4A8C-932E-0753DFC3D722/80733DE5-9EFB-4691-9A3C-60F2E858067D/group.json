@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "80733DE5-9EFB-4691-9A3C-60F2E858067D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "777382EA-E3C8-4D65-B00D-B160C6C02CC2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A902D977-7399-4832-8D5B-B175ED610E9B",
+    "height": 143,
+    "width": 561,
+    "x": 510,
+    "y": 401
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "ACFA3F90-30ED-4D82-9E99-B3D86BF70E3B"
+    },
+    {
+      "class": "group",
+      "id": "50E5CDBD-98B0-4899-AAB2-2824216EB1A0"
+    },
+    {
+      "class": "group",
+      "id": "2C7D203A-75C1-42F4-938F-7C3AFDA25E78"
+    }
+  ],
+  "name": "Card Tabs",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8F77B4E1-BF78-4B18-9BC8-2A8F47563A89",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

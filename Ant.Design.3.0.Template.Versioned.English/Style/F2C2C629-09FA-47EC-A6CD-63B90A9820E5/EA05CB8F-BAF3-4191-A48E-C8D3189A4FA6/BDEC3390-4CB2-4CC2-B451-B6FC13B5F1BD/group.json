@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "BDEC3390-4CB2-4CC2-B451-B6FC13B5F1BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AE1B5349-0EC7-4884-B30D-EBF366060F3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC386858-FCAF-464F-9CEE-B4264563CB15",
+    "height": 22,
+    "width": 21,
+    "x": 1.5,
+    "y": 1.4765625
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FBED58FA-6002-4187-80DD-B41744BFD28B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB5F8889-EB66-44E7-8EBC-9430DC9B6476"
+    }
+  ],
+  "name": "rocket",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1CE3B9A7-B45E-4E4B-B79C-40E6BD5242B8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

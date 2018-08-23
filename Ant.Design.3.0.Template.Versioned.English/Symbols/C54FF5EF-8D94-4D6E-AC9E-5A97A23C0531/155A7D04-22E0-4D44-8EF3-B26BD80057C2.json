@@ -1,0 +1,77 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "155A7D04-22E0-4D44-8EF3-B26BD80057C2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4A04FCF1-C8AB-46E3-AA40-08DF900DF7A9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "1A9C14DA-461E-487D-8F52-2C4C89730350",
+    "height": 16,
+    "width": 16,
+    "x": 16,
+    "y": 15
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Icon/Info-circle",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15B6FA4B-963B-4B5A-A46E-265BAD6472F9",
+      "overrideName": "27FA4684-4A0B-4E6A-B120-3224D3E121C2_symbolID",
+      "value": "A0415BF2-0012-4E0F-B07A-B772407B5CA5"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1DF70835-0AC7-4907-B34F-5DB86FFA9981",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4014EA31-6235-46BE-BADA-0BFD66B3EFD4",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 16,
+            "enabled": 1,
+            "modelID": "constraint_d90307c3-2f17-4704-bfe0-b41833764065",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 16
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_100180a5-0608-4af1-aa5c-0cbfa58b292e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "verticalSpacing": 0
+}

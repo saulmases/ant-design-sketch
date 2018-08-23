@@ -1,0 +1,82 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "do_objectID": "356A42D0-E895-4A53-B65E-1E122CFE653D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37101804-F095-4889-BA12-AD644A35B5A2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "16E75FFE-EC6E-49E3-8581-B8373969D846",
+    "height": 24,
+    "width": 24,
+    "x": 196,
+    "y": 462
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F6CD5F5A-EC2C-4461-A634-2203E7F3C8CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "899FB70A-D1CA-4899-BFAB-C4B0EFE8637A"
+    }
+  ],
+  "name": "Group 66",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "EFB3B2CD-F9A0-40B4-85E2-B3D5FAD46F0F",
+      "opacity": 0.65
+    },
+    "do_objectID": "DB1EAABC-4912-45ED-AD0D-760C3C8A199E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 24,
+            "enabled": 1,
+            "modelID": "constraint_455cdd66-8990-47e4-858b-657303969f69",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_d4e344a1-65ca-4a40-a58e-08c48313070e",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

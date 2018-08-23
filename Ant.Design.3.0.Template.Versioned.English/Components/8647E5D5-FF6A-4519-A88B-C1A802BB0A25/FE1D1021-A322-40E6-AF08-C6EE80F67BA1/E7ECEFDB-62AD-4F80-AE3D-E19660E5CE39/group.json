@@ -1,0 +1,81 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E7ECEFDB-62AD-4F80-AE3D-E19660E5CE39",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE7495BC-DA11-4A82-AF18-75F1672CD7A4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E8F881DA-C84A-4235-BB58-66A617FE09B4",
+    "height": 168,
+    "width": 269,
+    "x": 40,
+    "y": 303
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "08E84981-E59F-4150-A734-26D1A2746B54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C866E765-617A-4E69-877B-5FE37897F42D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FD30F78B-C6F9-464C-9551-4699EE59F8F0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19E0A6B9-6AE9-42D2-8BFE-3E5007134F4A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "698B5AFC-C180-44EE-B413-88D9CE54A225"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5DBD1A1A-40C6-4D16-936E-BD3F220C7E0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DFFFA299-DF65-4157-B3B8-0D83B3D920D0"
+    }
+  ],
+  "name": "Dashed Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6484895B-6199-47BE-A78A-58A770F556D2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
