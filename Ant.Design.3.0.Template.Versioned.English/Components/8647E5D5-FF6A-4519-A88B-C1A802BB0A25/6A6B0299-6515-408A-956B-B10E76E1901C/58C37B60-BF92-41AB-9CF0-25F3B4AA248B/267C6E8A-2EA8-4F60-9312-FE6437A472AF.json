@@ -10,18 +10,19 @@
             "_class": "color",
             "alpha": 1,
             "blue": 1,
-            "green": 0.5647058824,
-            "red": 0.09411764706
+            "green": 0.5647058823529414,
+            "red": 0.09411764705882353
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "WorkSans-Regular",
               "size": 14
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
+            "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
             "maximumLineHeight": 22,
             "minimumLineHeight": 22
@@ -31,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "在此点击"
+    "string": "Text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -52,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "2BA05DAB-D2AA-46D5-B174-964CCFB25485",
     "height": 22,
-    "width": 56,
-    "x": 8,
+    "width": 29,
+    "x": 10,
     "y": 144
   },
-  "glyphBounds": "{{0, 4}, {56, 14}}",
+  "glyphBounds": "{{0, 6}, {28, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "在此点击",
+  "name": "Text",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -75,27 +76,28 @@
     "do_objectID": "69273F34-8657-4199-A185-F05C320EC267",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "BB5EDDEC-B886-4EA9-B14C-2BA9A30296F9",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "8E2425C4-B689-4CA1-99B3-E6E9B798440C",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 0.5647058824,
-          "red": 0.09411764706
+          "green": 0.5647058823529414,
+          "red": 0.09411764705882353
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
+            "name": "WorkSans-Regular",
             "size": 14
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
+          "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
           "maximumLineHeight": 22,
           "minimumLineHeight": 22

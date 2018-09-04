@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -35,11 +35,15 @@
     },
     {
       "class": "symbolInstance",
-      "id": "8296146A-C34E-42C2-905A-ACFEE9AEA169"
+      "id": "AB433315-FDB9-461F-85F0-6D3E27283FFD"
     },
     {
       "class": "symbolInstance",
-      "id": "AB433315-FDB9-461F-85F0-6D3E27283FFD"
+      "id": "2A225155-19FB-41C0-A628-248D8497445C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8296146A-C34E-42C2-905A-ACFEE9AEA169"
     },
     {
       "class": "symbolInstance",
@@ -52,10 +56,6 @@
     {
       "class": "symbolInstance",
       "id": "29E72A89-21C7-4C7E-897B-0708E14E6D75"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2A225155-19FB-41C0-A628-248D8497445C"
     }
   ],
   "name": "Disable Button",

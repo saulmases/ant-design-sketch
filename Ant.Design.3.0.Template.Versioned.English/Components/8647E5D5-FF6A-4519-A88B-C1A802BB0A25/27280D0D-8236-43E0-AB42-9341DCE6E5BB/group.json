@@ -27,7 +27,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 1,
   "layers": [
     {
       "class": "text",
@@ -39,7 +39,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7821DD35-441A-4767-8A9F-F9ACE2A3A09B"
+      "id": "E1270E5B-3723-4C74-91E6-DEAA8C210DDE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3AFCF5BC-81E3-4898-BFA2-B26074EE0BE6"
     },
     {
       "class": "text",
@@ -48,10 +52,6 @@
     {
       "class": "text",
       "id": "1AAFEC38-9ADF-4BCB-882A-E78C69BEE865"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4EB4D334-4AC7-4C5B-AA1D-036082125A23"
     }
   ],
   "name": "------ Breadcrumber",

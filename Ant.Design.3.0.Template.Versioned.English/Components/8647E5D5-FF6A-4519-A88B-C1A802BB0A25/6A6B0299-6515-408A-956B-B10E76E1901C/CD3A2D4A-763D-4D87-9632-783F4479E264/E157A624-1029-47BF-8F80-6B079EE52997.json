@@ -10,13 +10,13 @@
             "_class": "color",
             "alpha": 1,
             "blue": 1,
-            "green": 0.5647058824,
-            "red": 0.09411764706
+            "green": 0.5647058823529414,
+            "red": 0.09411764705882353
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PingFangSC-Regular",
+              "name": "WorkSans-Regular",
               "size": 14
             }
           },
@@ -32,7 +32,7 @@
         "location": 0
       }
     ],
-    "string": "悬浮于此"
+    "string": "Text"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": 0,
@@ -53,11 +53,11 @@
     "constrainProportions": false,
     "do_objectID": "63F44354-6F2C-4BBF-9D2E-9538FCE173F0",
     "height": 22,
-    "width": 56,
-    "x": 34,
+    "width": 29,
+    "x": 47,
     "y": 85
   },
-  "glyphBounds": "{{0, 4}, {56, 14}}",
+  "glyphBounds": "{{0, 6}, {28, 11}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "悬浮于此",
+  "name": "Text",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -76,22 +76,22 @@
     "do_objectID": "43ECF73B-76B3-4A20-A67C-1CEE8EB839A8",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "BB5EDDEC-B886-4EA9-B14C-2BA9A30296F9",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "781CE9D3-FD87-43BA-A366-53998E8A2E8B",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
           "blue": 1,
-          "green": 0.5647058824,
-          "red": 0.09411764706
+          "green": 0.5647058823529414,
+          "red": 0.09411764705882353
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PingFangSC-Regular",
+            "name": "WorkSans-Regular",
             "size": 14
           }
         },
