@@ -16,8 +16,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "D7695BC6-6E36-4808-B58D-C0420243A812",
-    "height": 67,
-    "width": 148,
+    "height": 164,
+    "width": 180,
     "x": 40,
     "y": 292
   },
@@ -27,35 +27,23 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
       "id": "A41256DB-402B-403E-A584-112735D29EE0"
     },
     {
-      "class": "shapeGroup",
-      "id": "37AA494D-09F5-4A87-A64C-B3717CFACCE1"
+      "class": "symbolInstance",
+      "id": "A7CD7627-B004-4BEC-8F20-1F9E936B56A2"
     },
     {
-      "class": "text",
-      "id": "4B9F743E-A64E-45E7-A109-3CC1AD5DDDFE"
+      "class": "symbolInstance",
+      "id": "5BA4613E-2159-4532-B357-BA131DB67830"
     },
     {
-      "class": "shapeGroup",
-      "id": "30375B8D-A9D1-44B9-97BA-7FEDE05ACFB9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "022A0361-8C78-4F12-A038-D1317AFAFF13"
-    },
-    {
-      "class": "group",
-      "id": "3CE2EA4C-14E0-4849-B4D1-FCB72CB5C013"
-    },
-    {
-      "class": "group",
-      "id": "E3EC9D3D-229A-4245-9510-905C13B0C1A8"
+      "class": "symbolInstance",
+      "id": "792E4908-06B5-446F-9F9A-D78A88FA9791"
     }
   ],
   "name": "Fine Tuning Input",
