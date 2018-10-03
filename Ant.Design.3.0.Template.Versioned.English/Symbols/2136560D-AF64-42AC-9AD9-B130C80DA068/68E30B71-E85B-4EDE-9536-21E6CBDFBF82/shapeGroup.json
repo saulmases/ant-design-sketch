@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C7953BE-4BA2-4B55-BAD2-C21B0626DE8D",
+  "do_objectID": "68E30B71-E85B-4EDE-9536-21E6CBDFBF82",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5997D21-85CD-47E7-A34A-A500D276C541",
+    "do_objectID": "E919B8BC-AE1B-4978-90B0-40117E71680E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,7 +16,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "90588D14-7D94-480F-ADD1-CFD2F864F32E",
+    "do_objectID": "ED2DF78B-9A8A-4D30-A734-2C639911FBDE",
     "height": 8,
     "width": 8,
     "x": 16,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "oval",
-      "id": "E8842F26-9BA6-419F-84DB-6004DDD5E90B"
+      "id": "68FE14DD-ED0A-44BE-AB01-A9A205D79636"
     }
   ],
   "name": "dot",
@@ -49,10 +49,10 @@
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.09,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.8352941176470587,
+          "red": 0.5686274509803921
         },
         "fillType": 0,
         "isEnabled": true,
@@ -60,7 +60,7 @@
         "thickness": 2
       }
     ],
-    "do_objectID": "3014A907-FCBB-41BD-9ADF-88AFD37F0123",
+    "do_objectID": "969049B1-FAA0-4214-AA34-1FC471567366",
     "endMarkerType": 0,
     "fills": [
       {

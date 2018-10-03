@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 41,
   "do_objectID": "38151637-2248-4EC5-8FC4-30FCB122EBED",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,13 +47,21 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "EB591B79-DBD4-4A4E-B9A5-38C9BFA9F154"
+    },
+    {
+      "class": "text",
+      "id": "943DF5C8-9BA9-4720-9E62-13F46678B26E"
+    },
+    {
       "class": "group",
-      "id": "86DE6F49-474D-4950-9448-C20C3820386C"
+      "id": "A188E1DD-5048-485B-AAF5-344ED635F3F4"
     }
   ],
   "name": "Input/numeric/medium/placeholder",
   "nameIsFixed": false,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

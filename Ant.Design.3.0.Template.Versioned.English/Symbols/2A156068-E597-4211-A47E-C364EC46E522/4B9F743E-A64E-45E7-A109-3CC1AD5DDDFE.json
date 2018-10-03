@@ -8,38 +8,39 @@
         "attributes": {
           "MSAttributedStringColorAttribute": {
             "_class": "color",
-            "alpha": 0.65,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "alpha": 1,
+            "blue": 0.7490196078431373,
+            "green": 0.7490196078431373,
+            "red": 0.7490196078431373
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "WorkSans-Regular",
-              "size": 14
+              "size": 16
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
             "allowsDefaultTighteningForTruncation": 0,
-            "maximumLineHeight": 22,
-            "minimumLineHeight": 22
+            "maximumLineHeight": 24,
+            "minimumLineHeight": 24
           }
         },
-        "length": 41,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Card Content…\nCard Content…\nCard Content…"
+    "string": "Type…"
   },
   "automaticallyDrawOnUnderlyingPath": false,
-  "booleanOperation": -1,
-  "do_objectID": "CB05F0FF-53EC-4AB4-A9F4-01B490FD3043",
+  "booleanOperation": 0,
+  "do_objectID": "4B9F743E-A64E-45E7-A109-3CC1AD5DDDFE",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CB886BCE-CB78-437B-A76E-3BD662D1E8C9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,12 +51,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 352,
-    "x": 24,
-    "y": 80
+    "do_objectID": "227D46BE-0D38-4009-84B8-39E6D0C77DCA",
+    "height": 24,
+    "width": 51,
+    "x": 12,
+    "y": 8
   },
-  "glyphBounds": "{{0, 5}, {103, 56}}",
+  "glyphBounds": "{{0, 6}, {49, 15}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,53 +65,53 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Card Content… Card C",
+  "name": "Type…",
   "nameIsFixed": false,
-  "resizingConstraint": 18,
+  "resizingConstraint": 11,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "020DD888-478A-42B7-9857-4898BE207E7C",
+    "do_objectID": "4B8BA59F-299C-4C30-AE6B-70C9A6F54DB4",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "BB5EDDEC-B886-4EA9-B14C-2BA9A30296F9",
+    "sharedObjectID": "0289EFEA-AD3F-4189-BCF7-051D6EE6208A",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
-          "alpha": 0.65,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.7490196078431373,
+          "green": 0.7490196078431373,
+          "red": 0.7490196078431373
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "WorkSans-Regular",
-            "size": 14
+            "size": 16
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
           "alignment": 0,
           "allowsDefaultTighteningForTruncation": 0,
-          "maximumLineHeight": 22,
-          "minimumLineHeight": 22
+          "maximumLineHeight": 24,
+          "minimumLineHeight": 24
         }
       },
       "verticalAlignment": 0
     },
     "windingRule": 1
   },
-  "textBehaviour": 2,
+  "textBehaviour": 0,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 0
+        "isAutoWidth": 1
       }
     }
   }

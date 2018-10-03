@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 6,
+  "changeIdentifier": 144,
   "do_objectID": "2A156068-E597-4211-A47E-C364EC46E522",
   "exportOptions": {
     "_class": "exportOptions",
@@ -28,7 +28,7 @@
     "y": -14405
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -47,13 +47,21 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "shapeGroup",
+      "id": "37AA494D-09F5-4A87-A64C-B3717CFACCE1"
+    },
+    {
+      "class": "text",
+      "id": "4B9F743E-A64E-45E7-A109-3CC1AD5DDDFE"
+    },
+    {
       "class": "group",
-      "id": "5CC961DD-7ACB-4B4E-88BF-3DE9363DC57D"
+      "id": "28706EA7-7DBC-4A45-B53C-36D39C847903"
     }
   ],
   "name": "Input/numeric/large/placeholder",
   "nameIsFixed": true,
-  "resizesContent": false,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": 0,
   "clippingMaskMode": 0,
-  "do_objectID": "9C7953BE-4BA2-4B55-BAD2-C21B0626DE8D",
+  "do_objectID": "7F92B2AA-ADD0-4C93-9A0C-C3A52EE42EFC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D5997D21-85CD-47E7-A34A-A500D276C541",
+    "do_objectID": "63842D53-4924-4485-AA78-1C85D5F17B62",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,14 +15,14 @@
   },
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "do_objectID": "90588D14-7D94-480F-ADD1-CFD2F864F32E",
-    "height": 8,
-    "width": 8,
-    "x": 16,
-    "y": 3
+    "constrainProportions": false,
+    "do_objectID": "8273E3C0-B7B3-4019-837D-6246A8563898",
+    "height": 10,
+    "width": 10,
+    "x": 0,
+    "y": 0
   },
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -32,11 +32,11 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "oval",
-      "id": "E8842F26-9BA6-419F-84DB-6004DDD5E90B"
+      "class": "rectangle",
+      "id": "513E629A-2C70-49A0-B0B4-7015F6E22CE0"
     }
   ],
-  "name": "dot",
+  "name": "area",
   "nameIsFixed": true,
   "resizingConstraint": 45,
   "resizingType": 0,
@@ -44,23 +44,32 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "DB11E48B-A96A-45F1-82DA-3704A0BCACA8",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.09765625,
+      "type": 0
+    },
     "borders": [
       {
         "_class": "border",
         "color": {
           "_class": "color",
-          "alpha": 0.09,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
-        "thickness": 2
+        "thickness": 0.5
       }
     ],
-    "do_objectID": "3014A907-FCBB-41BD-9ADF-88AFD37F0123",
+    "do_objectID": "2D26C7BE-FCDE-487E-8991-105B139B90C2",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,12 +77,12 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "noiseIndex": 0,
         "noiseIntensity": 0,
         "patternFillType": 0,
@@ -87,21 +96,6 @@
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "constraints": {
-          "aspectRatio": {
-            "constant": 8,
-            "enabled": 1,
-            "modelID": "constraint_21c06cb0-8dda-4ee3-9918-b01c9b8873d2",
-            "model_class": "ADModelConstraint",
-            "model_version": 0.1,
-            "multiplier": 8
-          },
-          "automatic": 1,
-          "modelID": "viewConstraints_020affa4-bc04-4c5e-9ef7-6c81d3ca6eb8",
-          "model_class": "ADModelViewConstraints",
-          "model_version": 0.1,
-          "scaleFactor": 1
-        }
       }
     }
   },
